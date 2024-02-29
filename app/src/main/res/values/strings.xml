@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">重複削除くん</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="button">Button</string>
+    <string name="select_calendar_prompt">カレンダーを選ぶ\t</string>
+    <string name="get_events_button">カレンダー予定取得\t</string>
+</resources>

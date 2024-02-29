@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="call_api_button" type="id" />
+    <item name="output_text" type="id" />
+    <item name="get_events_button" type="id" />
+</resources>
